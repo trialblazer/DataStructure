@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1418358664 source:e:\my program\schoolmap\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1418358664 source:g:\practisecode\project_grade_1_2\schoolmap\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+

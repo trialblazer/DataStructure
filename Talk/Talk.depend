@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1385316878 source:e:\my program\talk\main.cpp
+	<iostream>
+
+1402854209 source:e:\my program\talk\include\qq.h
+	<list>
+	<string>
+
+1402854419 source:e:\my program\talk\include\user.h
+	<list>
+	<map>
+	<string>
+

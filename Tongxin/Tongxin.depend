@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1409584553 source:e:\my program\tongxin\client.cpp
+
+1411490513 source:e:\my program\tongxin\main.cpp
+	<iostream>
+	<string>
+	<list>
+	"File_log.h"
+
+1409584742 source:e:\my program\tongxin\servers.cpp
+	<iostream>
+	<cstdio>
+	<Winsock2.h>
+
+1411491560 e:\my program\tongxin\include\file_log.h
+	<list>
+	<windows.h>
+	<string>
+
+1411491767 source:e:\my program\tongxin\src\file_log.cpp
+	"File_log.h"
+	<iostream>
+	<stdio.h>
+	<ctime>
+

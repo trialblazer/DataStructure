@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1402506958 source:e:\my program\string\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
+1399274684 source:e:\my program\string\src\astring.cpp
+	<iostream>
+	<stdlib.h>
+
+1402127168 source:e:\my program\string\src\seqqueue.cpp
+	"SeqQueue.h"
+
+1402195190 e:\my program\string\include\seqqueue.h
+	"Queue.h"
+	<iostream>
+
+1402127297 e:\my program\string\include\queue.h
+
+1402195151 source:e:\my program\string\src\linkedqueue.cpp
+	"LinkedQueue.h"
+
+1402127297 e:\my program\string\include\linkedqueue.h
+	"Queue.h"
+	<iostream>
+	<list>
+
+1402126804 source:e:\my program\string\src\list.cpp
+	"List.h"
+
+1402126746 e:\my program\string\include\list.h
+	<stdlib.h>
+

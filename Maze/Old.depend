@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1456479722 source:f:\codeblock\old\main.cpp
+	"Maze.h"
+	<iostream>
+	<string>
+	<stdio.h>
+
+1456479722 f:\codeblock\old\include\maze.h
+	"Pint_.h"
+	<windows.h>
+
+1456479722 source:f:\codeblock\old\src\maze.cpp
+	"Maze.h"
+	<stdlib.h>
+	<ctime>
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<list>
+	<stdio.h>
+
+1456479772 f:\codeblock\old\include\pint_.h
+	<windows.h>
+
+1456479772 source:f:\codeblock\old\src\pint_.cpp
+	"Pint_.h"
+	<iostream>
+
+1456479884 source:g:\practisecode\project_grade_1_2\maze\main.cpp
+	"Maze.h"
+	<iostream>
+	<string>
+	<stdio.h>
+

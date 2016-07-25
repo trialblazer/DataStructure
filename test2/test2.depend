@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1395667189 source:e:\my program\test2\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"Graph.h"
+
+1395461076 e:\my program\test2\include\list.h
+
+1395464539 source:e:\my program\test2\src\list.cpp
+	"List.h"
+	<iostream>
+	<stdlib.h>
+
+1395473901 source:e:\my program\test2\src\stack.cpp
+	"Stack.h"
+
+1395473803 e:\my program\test2\include\stack.h
+	"Vector.h"
+
+1395590782 source:e:\my program\test2\src\tree.cpp
+	"Tree.h"
+	<iostream>
+	<stdlib.h>
+
+1395589698 e:\my program\test2\include\tree.h
+
+1395470638 source:e:\my program\test2\src\vector.cpp
+	"Vector.h"
+	<iostream>
+	<stdlib.h>
+
+1395469773 e:\my program\test2\include\vector.h
+
+1395722695 source:e:\my program\test2\src\graph.cpp
+	"Graph.h"
+	<iostream>
+	<stdlib.h>
+
+1395660915 e:\my program\test2\include\graph.h
+
+1395666848 source:e:\my program\test2\src\heap.cpp
+	"Heap.h"
+	<iostream>
+	<stdlib.h>
+
+1395661840 e:\my program\test2\include\heap.h
+

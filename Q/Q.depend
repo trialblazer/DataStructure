@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1410780705 source:e:\my program\q\main.cpp
+	<windows.h>
+	<process.h>
+	<iostream>
+	<stdio.h>
+	<ctime>
+
+1410780705 source:g:\practisecode\project_grade_1_2\q\main.cpp
+	<windows.h>
+	<process.h>
+	<iostream>
+	<stdio.h>
+	<ctime>
+
+1456481441 source:g:\practisecode\project_grade_1_2\q\src\file.cpp
+	"File.h"
+
+1456481456 g:\practisecode\project_grade_1_2\q\include\file.h
+	<string.h>
+	<string>
+

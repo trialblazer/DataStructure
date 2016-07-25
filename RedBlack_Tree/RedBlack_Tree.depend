@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1418841671 source:e:\my program\redblack_tree\main.cpp
+	"RedBlack_Tree.h"
+	<ctime>
+	<stdlib.h>
+
+1420041929 source:e:\my program\redblack_tree\src\redblack_tree.cpp
+	"RedBlack_Tree.h"
+	<iostream>
+
+1418841249 e:\my program\redblack_tree\include\redblack_tree.h
+	<iostream>
+

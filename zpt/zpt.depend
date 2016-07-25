@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1391522383 source:e:\my program\zpt\list.cpp
+	"List.h"
+	<iostream>
+
+1410700081 source:e:\my program\zpt\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+
+1402944050 e:\my program\zpt\include\stuct.h
+
+1402993322 source:e:\my program\zpt\src\list_book.cpp
+	<stdio.h>
+	"List_Book.h"
+
+1402993322 e:\my program\zpt\include\list_book.h
+	"Stuct.h"
+

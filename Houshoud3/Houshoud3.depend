@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1415531719 source:e:\my program\houshoud3\main.cpp
+	<iostream>
+	"Tree.h"
+	<cstring>
+
+1415531488 e:\my program\houshoud3\include\tree.h
+	<vector>
+	<list>
+	<stdio.h>
+	<stdlib.h>
+	<queue>
+
+1415538503 source:e:\my program\houshoud3\src\tree.cpp
+	"Tree.h"
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<stack>
+
+1415531719 source:g:\my program\houshoud3\main.cpp
+	<iostream>
+	"Tree.h"
+	<cstring>
+
+1415531488 g:\my program\houshoud3\include\tree.h
+	<vector>
+	<list>
+	<stdio.h>
+	<stdlib.h>
+	<queue>
+
+1415538503 source:g:\my program\houshoud3\src\tree.cpp
+	"Tree.h"
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<stack>
+
+1415531719 source:g:\practisecode\project_grade_1_2\houshoud3\main.cpp
+	<iostream>
+	"Tree.h"
+	<cstring>
+
+1415531488 g:\practisecode\project_grade_1_2\houshoud3\include\tree.h
+	<vector>
+	<list>
+	<stdio.h>
+	<stdlib.h>
+	<queue>
+
+1415538503 source:g:\practisecode\project_grade_1_2\houshoud3\src\tree.cpp
+	"Tree.h"
+	<cstring>
+	<iostream>
+	<stdlib.h>
+	<stack>
+

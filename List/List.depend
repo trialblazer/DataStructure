@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1401980930 source:e:\my program\list\main.cpp
+	<string>
+	<conio.h>
+	<stdlib.h>
+	<iostream>
+	<cstring>
+	<stdio.h>
+
+1401979862 source:e:\my program\list\src\list.cpp
+	"List.h"
+	<iostream>
+
+1401758027 e:\my program\list\include\list.h
+	<stdlib.h>
+

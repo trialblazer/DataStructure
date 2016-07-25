@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1391526701 source:e:\my program\stack\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	"include/Tree.h"
+	"include/list.h"
+
+1390667351 e:\my program\stack\include\stack.h
+	<iostream>
+	"../include/Vector.h"
+
+1390722326 e:\my program\stack\include\vector.h
+	<iostream>
+
+1390667358 source:e:\my program\stack\src\stack.cpp
+	"../include/stack.h"
+	<iostream>
+
+1390667365 source:e:\my program\stack\src\vector.cpp
+	"../include/Vector.h"
+
+1391526236 e:\my program\stack\include\list.h
+
+1391526236 source:e:\my program\stack\src\list.cpp
+	"../include/List.h"
+	<iostream>
+	<cstdlib>
+
+1391510232 e:\my program\stack\include\tree.h
+
+1391510297 source:e:\my program\stack\src\tree.cpp
+	"Tree.h"
+	<iostream>
+	<cstdlib>
+

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1413703086 source:e:\my program\houshold2\main.cpp
+	"Calculate.h"
+
+1414406360 e:\my program\houshold2\include\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1413385452 source:e:\my program\houshold2\src\stack.cpp
+	"Stack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1415551642 e:\my program\houshold2\include\calculate.h
+	"Stack.h"
+	<cstring>
+
+1415554433 source:e:\my program\houshold2\src\calculate.cpp
+	"Calculate.h"
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+
+1413703086 source:g:\practisecode\project_grade_1_2\houshold2\main.cpp
+	"Calculate.h"
+
+1415551642 g:\practisecode\project_grade_1_2\houshold2\include\calculate.h
+	"Stack.h"
+	<cstring>
+
+1414406360 g:\practisecode\project_grade_1_2\houshold2\include\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

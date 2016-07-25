@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1417255414 source:e:\my program\graph\main.cpp
+	"Test.h"
+	"Graph_Lnk.h"
+	"Graph_Matrix.h"
+
+1417097739 source:e:\my program\graph\src\graph_matrix.cpp
+	"Graph_Matrix.h"
+	<iostream>
+	<queue>
+	<conio.h>
+
+1417097530 e:\my program\graph\include\graph_matrix.h
+
+1417269735 source:e:\my program\graph\src\graph_lnk.cpp
+	"Graph_Lnk.h"
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+
+1417938086 e:\my program\graph\include\graph_lnk.h
+	<iostream>
+
+1417269444 e:\my program\graph\include\test.h
+	<iostream>
+	<windows.h>
+	"Graph_Matrix.h"
+	"Graph_Lnk.h"
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1417255414 source:g:\practisecode\project_grade_1_2\graph\main.cpp
+	"Test.h"
+	"Graph_Lnk.h"
+	"Graph_Matrix.h"
+
+1417269444 g:\practisecode\project_grade_1_2\graph\include\test.h
+	<iostream>
+	<windows.h>
+	"Graph_Matrix.h"
+	"Graph_Lnk.h"
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1417097530 g:\practisecode\project_grade_1_2\graph\include\graph_matrix.h
+
+1456479176 g:\practisecode\project_grade_1_2\graph\include\graph_lnk.h
+	<iostream>
+
+1417097739 source:g:\practisecode\project_grade_1_2\graph\src\graph_matrix.cpp
+	"Graph_Matrix.h"
+	<iostream>
+	<queue>
+	<conio.h>
+

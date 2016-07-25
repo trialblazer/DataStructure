@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1394462716 source:e:\my program\zpb\main.cpp
+	<iostream>
+	<ctime>
+	<algorithm>
+	<cstdlib>
+	"List.h"
+	"Vector.h"
+	"Stack.h"
+	"tree.h"
+	"Heap.h"
+	"Graph.h"
+
+1392090358 e:\my program\zpb\include\list.h
+
+1392713326 source:e:\my program\zpb\src\heap.cpp
+	"Heap.h"
+	<iostream>
+
+1392710913 e:\my program\zpb\include\heap.h
+	<vector>
+
+1392098469 e:\my program\zpb\include\vector.h
+
+1392101301 source:e:\my program\zpb\src\stack.cpp
+	"Stack.h"
+
+1392101301 e:\my program\zpb\include\stack.h
+	"Vector.h"
+
+1395499783 source:e:\my program\zpb\src\tree.cpp
+	"Tree.h"
+	<iostream>
+	<stdlib.h>
+
+1392443329 e:\my program\zpb\include\tree.h
+
+1392713500 source:e:\my program\zpb\src\vector.cpp
+	"Vector.h"
+	<iostream>
+	<stdlib.h>
+
+1392131237 source:e:\my program\zpb\src\list.cpp
+	<iostream>
+	"List.h"
+
+1392878511 e:\my program\zpb\include\graph.h
+
+1392878760 source:e:\my program\zpb\src\graph.cpp
+	"Graph.h"
+	<stdlib.h>
+	<iostream>
+

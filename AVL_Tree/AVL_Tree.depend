@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1417443485 source:e:\my program\avl_tree\main.cpp
+	<iostream>
+	"AVL_Tree.h"
+
+1417443107 e:\my program\avl_tree\include\avl_tree.h
+	<iostream>
+
+1417444354 source:e:\my program\avl_tree\src\avl_tree.cpp
+	"AVL_Tree.h"
+	<iostream>
+	<queue>
+

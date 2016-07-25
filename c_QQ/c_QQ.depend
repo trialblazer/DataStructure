@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1399882105 source:e:\my program\c_qq\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+

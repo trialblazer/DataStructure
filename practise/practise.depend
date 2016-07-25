@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1390666415 source:e:\my program\practise\main.cpp
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Stack.h"
+
+1390665931 source:e:\my program\practise\src\stack.cpp
+	"stack.h"
+	<iostream>
+
+1390666022 e:\my program\practise\include\stack.h
+	<iostream>
+	"Vector.h"
+
+1390665931 source:e:\my program\practise\src\vector.cpp
+	"Vector.h"
+
+1390663468 e:\my program\practise\include\vector.h
+	<iostream>
+

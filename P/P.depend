@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1411556366 source:e:\my program\p\main.cpp
+	<windows.h>
+	<process.h>
+	<iostream>
+	<stdio.h>
+	"FileLog.h"
+	"Client.h"
+	<ctime>
+
+1410596441 e:\my program\p\include\filelog.h
+	"iostream"
+	"string.h"
+	<windows.h>
+
+1410596589 source:e:\my program\p\src\filelog.cpp
+	"FileLog.h"
+
+1410677551 source:e:\my program\p\src\server.cpp
+	"Server.h"
+
+1410678337 e:\my program\p\include\server.h
+
+1410678571 source:e:\my program\p\src\client.cpp
+
+1410688320 e:\my program\p\include\client.h
+

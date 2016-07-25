@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1420623631 source:e:\my program\hash\main.cpp
+	<iostream>
+	"Hash.h"
+
+1417179709 source:e:\my program\hash\src\hash.cpp
+	"Hash.h"
+	<stdlib.h>
+
+1417179742 e:\my program\hash\include\hash.h
+

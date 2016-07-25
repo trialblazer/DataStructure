@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1398249205 source:e:\my program\qq\main.cpp
+	"QQ.h"
+
+1398589888 source:e:\my program\qq\src\list.cpp
+	"List.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1398536031 e:\my program\qq\include\list.h
+	"Person.h"
+
+1398596717 e:\my program\qq\include\person.h
+
+1398597357 source:e:\my program\qq\src\person.cpp
+	"Person.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1398596717 source:e:\my program\qq\src\user.cpp
+	"User.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<time.h>
+
+1398589502 e:\my program\qq\include\user.h
+	"Person.h"
+	"List.h"
+
+1398536032 e:\my program\qq\include\qq.h
+	"User.h"
+
+1398596085 source:e:\my program\qq\src\qq.cpp
+	"QQ.h"
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1398566825 source:e:\my program\qq\src\messages.cpp
+	"Messages.h"
+
+1398566886 e:\my program\qq\include\messages.h
+
+1398249205 source:g:\practisecode\project_grade_1_2\qq\main.cpp
+	"QQ.h"
+
+1398536032 g:\practisecode\project_grade_1_2\qq\include\qq.h
+	"User.h"
+
+1398589502 g:\practisecode\project_grade_1_2\qq\include\user.h
+	"Person.h"
+	"List.h"
+
+1398596717 g:\practisecode\project_grade_1_2\qq\include\person.h
+
+1398536031 g:\practisecode\project_grade_1_2\qq\include\list.h
+	"Person.h"
+
+1398589888 source:g:\practisecode\project_grade_1_2\qq\src\list.cpp
+	"List.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1398597357 source:g:\practisecode\project_grade_1_2\qq\src\person.cpp
+	"Person.h"
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1398596085 source:g:\practisecode\project_grade_1_2\qq\src\qq.cpp
+	"QQ.h"
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1398596717 source:g:\practisecode\project_grade_1_2\qq\src\user.cpp
+	"User.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<time.h>
+

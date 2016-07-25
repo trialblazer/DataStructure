@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1432279438 source:e:\my program\maze\main.cpp
+	"Maze.h"
+	<iostream>
+	<string>
+	<stdio.h>
+
+1418271284 e:\my program\maze\include\maze.h
+	"Pint_.h"
+	<windows.h>
+
+1428810308 e:\my program\maze\include\pint_.h
+	<windows.h>
+
+1428810382 source:e:\my program\maze\src\maze.cpp
+	"Maze.h"
+	<stdlib.h>
+	<ctime>
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<list>
+	<stdio.h>
+
+1418030405 source:e:\my program\maze\src\pint_.cpp
+	"Pint_.h"
+	<iostream>
+
+1451840199 source:g:\my program\maze\main.cpp
+	"Maze.h"
+	<iostream>
+	<string>
+	<stdio.h>
+
+1418271284 g:\my program\maze\include\maze.h
+	"Pint_.h"
+	<windows.h>
+
+1428810308 g:\my program\maze\include\pint_.h
+	<windows.h>
+
+1428810382 source:g:\my program\maze\src\maze.cpp
+	"Maze.h"
+	<stdlib.h>
+	<ctime>
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<list>
+	<stdio.h>
+
+1418030405 source:g:\my program\maze\src\pint_.cpp
+	"Pint_.h"
+	<iostream>
+
+1456479722 source:g:\practisecode\project_grade_1_2\maze\src\maze.cpp
+	"Maze.h"
+	<stdlib.h>
+	<ctime>
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<list>
+	<stdio.h>
+
+1456479722 g:\practisecode\project_grade_1_2\maze\include\maze.h
+	"Pint_.h"
+	<windows.h>
+
+1456479772 g:\practisecode\project_grade_1_2\maze\include\pint_.h
+	<windows.h>
+
+1456479772 source:g:\practisecode\project_grade_1_2\maze\src\pint_.cpp
+	"Pint_.h"
+	<iostream>
+
+1456479884 source:g:\practisecode\project_grade_1_2\maze\main.cpp
+	"Maze.h"
+	<iostream>
+	<string>
+	<stdio.h>
+

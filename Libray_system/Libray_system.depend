@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1403159590 source:e:\my program\libray_system\src\struct_list.cpp
+
+1409337124 source:e:\my program\libray_system\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<list>
+	<map>
+	<string>
+	"Struct_List.h"
+
+1403520777 e:\my program\libray_system\include\struct_list.h
+	<stdio.h>
+
+1409337124 source:g:\my program\libray_system\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<list>
+	<map>
+	<string>
+	"Struct_List.h"
+
+1403520777 g:\my program\libray_system\include\struct_list.h
+	<stdio.h>
+
+1409337124 source:g:\practisecode\project_grade_1_2\libray_system\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<list>
+	<map>
+	<string>
+	"Struct_List.h"
+
+1456488183 g:\practisecode\project_grade_1_2\libray_system\include\struct_list.h
+
